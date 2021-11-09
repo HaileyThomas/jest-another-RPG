@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Node.js RPG game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaileyThomas/jest-another-RPG.git"
+  },
+  "author": "Hailey Thomas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HaileyThomas/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/HaileyThomas/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
